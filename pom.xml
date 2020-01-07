@@ -34,7 +34,7 @@
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <urlhttp://3.0.98.90:8081/repository/flipkart-snap/</url>
+            <url>http://3.0.98.90:8081/repository/flipkart-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
