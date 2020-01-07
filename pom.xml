@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://52.221.208.92:8081/repository/seena-rel/</url>
+            <url>http://52.77.221.198:8081/repository/seena-rel/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://52.221.208.92:8081/repository/seena-snap/</url>
+            <url>http://52.77.221.198:8081/repository/seena-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
