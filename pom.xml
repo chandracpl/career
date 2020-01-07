@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://3.0.98.90:8081/repository/chandra-rel/</url>
+            <url>http://3.0.98.90:8081/repository/pawan-rel/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://3.0.98.90:8081/repository/chandra-snap/</url>
+            <url>http://3.0.98.90:8081/repository/pawan-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
