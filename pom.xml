@@ -25,16 +25,16 @@
       </plugin>
     </plugins>
   </build>
-   <distributionManagement>
+ <distributionManagement>
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://3.0.98.90:8081/repository/pawan-rel/</url>
+            <url>http://54.251.189.172:8081/repository/flipkart-rel/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://3.0.98.90:8081/repository/pawan-snap/</url>
+            <url>http://54.251.189.172:8081/repository/flipkart-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
