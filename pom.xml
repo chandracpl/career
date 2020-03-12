@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://54.251.189.172:8081/repository/flipkart-rel/</url>
+            <url>http://13.127.126.69:8081/repository/snapshotrelease/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://54.251.189.172:8081/repository/flipkart-snap/</url>
+            <url>http://13.127.126.69:8081/repository/snapshotRepo/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
